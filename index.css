@@ -1,0 +1,10 @@
+html {width:100%; margin : 0;}
+body {width:100%; margin : 0;}
+header {height:250px; background-color:grey}
+	h1{text-align: center; color:#0095ad ; font-family : arial}
+	#logo {display:block; height: 200px; border-radius: 50%;padding-left: 40px}
+section {  }
+	#bloc { float: left; width: 400px; }
+		#photo {height: 300px; margin-left: 50px}
+		#lien {margin-left: 20px}
+#p1 {padding-top: 5%;padding-right: 25%;height:50%;}
